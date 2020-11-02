@@ -7,6 +7,9 @@ function App() {
       <strong>
       hello world from faizan
       </strong>
+      <strong>
+      hello world from faizan sohail
+      </strong>
     </div>
   );
 }
